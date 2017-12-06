@@ -60,9 +60,9 @@
 		4E2520981FD7175800D18A5C /* StanfordClassGame */ = {
 			isa = PBXGroup;
 			children = (
+				4E2520991FD7175800D18A5C /* AppDelegate.swift */,
 				4E2520AD1FD71BBD00D18A5C /* View */,
 				4E9A85CA1FD7656600A559B1 /* Model */,
-				4E2520991FD7175800D18A5C /* AppDelegate.swift */,
 				4E25209B1FD7175800D18A5C /* ViewController.swift */,
 				4E25209D1FD7175800D18A5C /* Main.storyboard */,
 				4E2520A01FD7175800D18A5C /* Assets.xcassets */,
